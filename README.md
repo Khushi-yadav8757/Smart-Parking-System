@@ -42,14 +42,13 @@ This project helps in monitoring parking availability automatically and can be u
 
 ## 📂 Project Structure
 
-Smart-Parking-System
-│
 ├── main.py
 ├── ParkingSpacePicker.py
 ├── carPark.mp4
 ├── carParkImg.png
 ├── CarParkPos
 └── README.md
+
 
 ---
 
