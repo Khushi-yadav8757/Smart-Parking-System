@@ -6,7 +6,7 @@ This project helps in monitoring parking availability automatically and can be u
 
 ---
 
-## 📌 Features
+## 📌 Features 
 
 - Detects free and occupied parking slots in real time  
 - Uses image processing instead of physical sensors  
